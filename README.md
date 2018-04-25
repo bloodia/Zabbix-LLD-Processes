@@ -1,6 +1,6 @@
 # lld-processes
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-LLD-Processes/blob/master/LICENSE)
-[![Build Status](https://travis-ci.org/bloodia/Zabbix-Low-Processes.svg?branch=master)](https://travis-ci.org/bloodia/Zabbix-LLD-Processes)
+[![Build Status](https://travis-ci.org/bloodia/Zabbix-LLD-Processes.svg?branch=master)](https://travis-ci.org/bloodia/Zabbix-LLD-Processes)
 
 ## Overview
 Zabbix customized server-side scripts for processes low level discovery.
