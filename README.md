@@ -16,6 +16,7 @@ Zabbix customized server-side scripts for processes low level discovery.
 - 3.3
 - 3.4
 - 3.5
+- 3.6
 
 ### Python Modules
 - json
