@@ -2,6 +2,7 @@
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-LLD-Processes/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/bloodia/Zabbix-LLD-Processes.svg?branch=master)](https://travis-ci.org/bloodia/Zabbix-LLD-Processes)
 [![Maintainability](https://api.codeclimate.com/v1/badges/4b8ca06b13b07c0f7e18/maintainability)](https://codeclimate.com/github/bloodia/Zabbix-LLD-Processes/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/4b8ca06b13b07c0f7e18/test_coverage)](https://codeclimate.com/github/bloodia/Zabbix-LLD-Processes/test_coverage)
 
 ## Overview
 Zabbix customized server-side scripts for processes low level discovery.
@@ -13,7 +14,7 @@ Zabbix customized server-side scripts for processes low level discovery.
 ### Python
 - 2.6
 - 2.7
-- 3.2
+- ~~3.2~~
 - 3.3
 - 3.4
 - 3.5
