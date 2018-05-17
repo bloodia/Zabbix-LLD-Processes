@@ -14,7 +14,6 @@ Zabbix customized server-side scripts for processes low level discovery.
 ### Python
 - 2.6
 - 2.7
-- ~~3.2~~
 - 3.3
 - 3.4
 - 3.5
