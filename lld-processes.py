@@ -1,19 +1,20 @@
 #!/usr/bin/python
 # coding: utf-8
-# ==============================================================================
-# Script Name     : lld-processes.py
-# Tool Version    : 1.0.0
-# Arguments       : -
-# Options         : -v, --version  print version information.
-#                 : -h, --help     show this help message and exit.
-#                 : -u, --psuser   select process user
-#                 : -n, --psname   select process name
-# Usage           : $0 [<Options>]
-# OS Version      : CentOS release 5, 6, 7
-# ==============================================================================
-# Date          Author        Changes
-# 2018/04/10    Yuta Akama    New Creation
-# ==============================================================================
+# ------------------------------------------------------------------------------
+# Script Name  : lld-processes.py
+# Tool Version : 1.0.0
+# Arguments    : -
+# Options      : -v, --version  print version information.
+#              : -h, --help     show this help message and exit.
+#              : -u, --psuser   select process user
+#              : -n, --psname   select process name
+# Usage        : $0 [<Options>]
+# Return       : -
+# -------------+-------------------------------------------+--------------------
+# Date         | Changes                                   | Author
+# -------------+-------------------------------------------+--------------------
+# 2018/04/10   | New Creation                              | @bloodia
+# ------------------------------------------------------------------------------
 # --+----1----+----2----+----3----+----4----+----5----+----6----+----7----+----8
 
 import json
