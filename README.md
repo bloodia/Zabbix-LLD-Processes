@@ -42,11 +42,11 @@ for example: /usr/local/bin/lld-processes.py -t 'zabbix' -n '/usr/sbin/zabbix_se
 
 ## How to Install
 ### Script
-Create directory "/usr/local/bin" and copy "Custom Script" file (py) to inside.  
-Change "Custom Script" file (py) to 555 or dr-xr-xr-x using chmod.  
+- Create directory "/usr/local/bin" and copy "Custom Script" file (py) to inside.  
+- Change "Custom Script" file (py) to 555 or dr-xr-xr-x using chmod.  
 
 ### UserParameter Config
-Copy "UserParameter Config" file (conf) to /etc/zabbix/zabbix_agentd.d and restart Zabbix agent.  
+- Copy "UserParameter Config" file (conf) to /etc/zabbix/zabbix_agentd.d and restart Zabbix agent.  
 
 ## Author
 [@bloodia](https://twitter.com/bloodiadotnet)
